@@ -377,9 +377,6 @@ header {
 }
 
 @media (max-width: 450px) {
-	.hi {
-		display: flex;
-	} 
 	.hi_row {
 	 display: flex;
 	 flex-direction: column;
@@ -427,9 +424,6 @@ header {
 }
  
  @media (min-width: 451px) and (max-width: 770px) {
-	.hi {
-		display: flex;
-	} 
 	.hi_row {
 	 display: flex;
 	 flex-direction: column;
@@ -475,9 +469,6 @@ header {
 	}
 }
  @media (min-width: 771px) and (max-width: 1025px) {
-	.hi {
-		display: flex;
-	} 
 	.hi_row {
 	 display: flex;
 	 flex-direction: column;
